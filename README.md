@@ -1,4 +1,4 @@
-# minigpt
+# miniGPT
 
 A Tensorflow Implementation of miniGPT by Andrej Karpathy (https://github.com/karpathy/nanoGPT)
 
